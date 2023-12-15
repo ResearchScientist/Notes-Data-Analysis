@@ -10,7 +10,7 @@
 # Analysis Life Cycle
 
 - [Ask](#Ask)
-- prepare
+- [Prepare](#Prepare)
 - process
 - analyze
 - share
@@ -27,15 +27,29 @@
 	- action oriented : questions seek answers that we can act on
 	- relevant
 	- time bound
-- prepare
-	- obtain data
-	- store data
-- process
-	- cleanse
-	- transform
-- analyze
-	- find patterns
-- share
-	- communicate findings
-- act
-	- connect findings to OKRs and KPIs
+- define scope
+- define deliverables
+- set schedule
+- set milestones
+
+# Prepare
+
+- obtain data
+- store data
+
+# Process
+
+- cleanse
+- transform
+
+# Analyze
+ 
+- find patterns
+
+# Share
+
+- communicate findings
+
+# Act
+
+- connect findings to OKRs and KPIs
