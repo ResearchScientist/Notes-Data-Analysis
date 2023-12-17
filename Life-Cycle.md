@@ -11,7 +11,7 @@
 
 - [Ask](#Ask)
 - [Prepare](#Prepare)
-- process
+- [Process](#Process)
 - analyze
 - share
 - act
@@ -55,6 +55,8 @@
 # Process
 
 - cleanse
+	- identify null values
+	- 
 - transform
 
 # Analyze
