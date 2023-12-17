@@ -20,7 +20,15 @@
 
 - define problem for getting from current state to ideal state
 - identify stakeholders
+	- primary stakeholder
+	- secondary stakeholder
+	- data owner
+	- data manager
+	- stakeholders who can help you
 - define communication strategies
+	- who is the audience
+	- what do they already know
+	- what do they need to know
 - use SMART framework for designing questions
 	- specific
 	- measurable
@@ -35,6 +43,13 @@
 # Prepare
 
 - obtain data
+	- interviews
+	- observations
+	- forms
+	- questionnaires
+	- surveys
+	- cookies
+- ensure data is not biased
 - store data
 
 # Process

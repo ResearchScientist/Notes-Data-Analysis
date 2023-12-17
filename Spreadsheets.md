@@ -9,8 +9,8 @@
 # Basics
 
 - cell : holds data
-- row : observation
-- column : 
+- row : record , observation
+- column : field
 - cell reference : the location of a cell denoted by letters and numbers
 
 # Operators
