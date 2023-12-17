@@ -85,4 +85,16 @@ Interpreting information in a manner that confirms pre existing beliefs.
 	- redistribution
 	- universal participation
 
+# Metadata
+
+- descriptive : used for subsequent identification
+- structural : how is data organized , data collections it belongs to
+- administrative : data source
+
+Metadata repositories hold metadata and describe
+- metadata state
+- metadata location
+- table structure
+- data flow
+- user access to the data
 

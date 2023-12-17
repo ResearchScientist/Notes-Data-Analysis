@@ -36,3 +36,22 @@
 
 A table returning a summary of another data set.
 
+# CSV Files
+
+These are files whose data is delimited by Comma Separated Values.
+The values can be delimited by other values such as colons, blank space, or any custom characters.
+
+Import or export a csv file.
+
+# Sort
+
+Reorder data.
+
+# Filter
+
+Display only data that meets a given criteria.
+
+# Protect
+
+You can lock cells from being edited. Useful for protecting formulas when sharing spreadsheets.
+
