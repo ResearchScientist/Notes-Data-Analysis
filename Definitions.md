@@ -10,3 +10,4 @@
 |Relational Database|A database containing tables that can be connected to form relationships.|
 |Schema|Description of data organization.|
 |Unbiased Sample|Sample representative of the population.|
+

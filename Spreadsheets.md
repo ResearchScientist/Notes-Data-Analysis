@@ -22,19 +22,32 @@
 
 # Formulas
 
+Preceded by `=`
+
 - average
 - count
 - max
 - min
 - sum
+- left()
+- right()
+- concatenate()
+- trim()
 
 # Functions
 
 - sort
+- filter
+- find and replace
 
 # Pivot Table
 
 A table returning a summary of another data set.
+
+# Vlookup
+
+Vertical lookup. Searches for a given key within a column and returns its associated value.
+
 
 # CSV Files
 
@@ -54,4 +67,8 @@ Display only data that meets a given criteria.
 # Protect
 
 You can lock cells from being edited. Useful for protecting formulas when sharing spreadsheets.
+
+# Conditional Formatting
+
+Updates formatting of cells that meet a given condition.
 

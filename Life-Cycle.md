@@ -12,7 +12,7 @@
 - [Ask](#Ask)
 - [Prepare](#Prepare)
 - [Process](#Process)
-- analyze
+- [Analyze](#Analyze)
 - share
 - act
 
@@ -49,19 +49,37 @@
 	- questionnaires
 	- surveys
 	- cookies
+- validate data
+	- accuracy
+	- quality
 - ensure data is not biased
 - store data
+	- maintain original data in a repository
+	- for processing make a copy of the original data and process the copy
 
 # Process
 
 - cleanse
 	- identify null values
-	- 
-- transform
+	- identify errors
+		- data entry
+		- missing entries
+		- spelling
+		- capitalization
+		- spaces
+		- duplicates
+	- document changes and modifications with a changelog
+		- describe change made
+		- describe effect on data
+	- use version control
+- ensure data integrity throughout its lifecycle
 
 # Analyze
  
-- find patterns
+- organize
+- format
+- get input
+- transform
 
 # Share
 
