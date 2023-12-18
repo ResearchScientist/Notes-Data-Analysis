@@ -13,7 +13,7 @@
 - [Prepare](#Prepare)
 - [Process](#Process)
 - [Analyze](#Analyze)
-- share
+- [Share](#Share)
 - act
 
 # Ask
@@ -80,10 +80,23 @@
 - format
 - get input
 - transform
+- validate data
 
 # Share
 
 - communicate findings
+- slide deck
+	- title reflecting inquiry
+	- goals
+	- presentation outline
+	- hypothesis
+- connect to metrics such as KPIs and OKRs
+- use data vis
+	- present vis by name
+	- anticipate audience general questions and answer them early with the vis
+	- explicitly state the insight of the vis
+	- begin with overview
+	- continue stepwise with finer granularity
 
 # Act
 

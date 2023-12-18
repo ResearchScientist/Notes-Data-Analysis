@@ -7,6 +7,10 @@ Tables contain key and value pairs.
 - Foreign Key :  A field within a table that is a primary key in another table.
 	Many per table.
 
+# Providers
+
+- google big query
+
 # Normalized Database
 
 Only related data is stored in each table.
@@ -18,10 +22,8 @@ Structured Query Language
 `SELECT` columns
 `FROM` source
 `WHERE` filters
-`ORDER BY` sorts results, default is ascending (alternate is DESC)
 `LIMIT` limit number of returned results
-`GROUP BY` 
-
+`EXTRACT()` 
 
 Selects all values. Including duplicates.
 ```sql
@@ -182,4 +184,35 @@ LEFT JOIN
 
 GROUP BY
 ```
+
+# Operators
+
++
+-
+*
+/
+
+```sql
+SELECT
+	columnA,
+	columnB,
+	columnA + columnB AS columnC
+FROM
+	tableA
+```
+
+# Aggregate Functions
+
+`SUM` 
+`AVG` 
+`COUNT()` 
+
+`GROUP BY` groups rows with the same value
+`ORDER BY` sorts results, default is ascending (alternate is DESC)
+
+# Temporary Table
+
+`WITH` 
+`SELECT INTO` 
+`CREATE TABLE` 
 

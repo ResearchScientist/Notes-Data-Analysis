@@ -34,6 +34,9 @@ Preceded by `=`
 - concatenate()
 - trim()
 - value()
+- countif()
+- sumif()
+- sumproduct()
 
 # Functions
 
