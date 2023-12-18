@@ -15,6 +15,14 @@ Only related data is stored in each table.
 
 Structured Query Language
 
+`SELECT` columns
+`FROM` source
+`WHERE` filters
+`ORDER BY` sorts results, default is ascending (alternate is DESC)
+`LIMIT` limit number of returned results
+`GROUP BY` 
+
+
 Selects all values. Including duplicates.
 ```sql
 SELECT
@@ -67,4 +75,111 @@ WHERE
 
 `CONCAT(column1,column2)` concatenates 2 columns
 `COALESCE()` returns non null values
+
+# Joins
+
+Adds null values for any data not matched.
+## Inner
+
+Data found in both tables.
+## Left
+
+All data from left table and matching data from right table.
+
+## Right
+
+All data from right table and matching data from left table.
+
+## Full
+
+All data from both left and right tables.
+
+```sql
+SELECT
+
+FROM
+
+INNER JOIN
+	ON
+```
+
+# Sub Queries
+
+Nested queries in which the inner query executes before the outer query.
+
+Inside `SELECT`
+
+```sql
+SELECT
+
+	(SELECT
+	
+	FROM ) AS
+FROM
+```
+
+Inside `FROM`
+
+```sql
+SELECT
+
+FROM
+(
+	SELECT
+
+	FROM
+
+	GROUP BY
+)
+AS
+
+INNER JOIN
+
+ORDER BY
+ DESC
+```
+
+Inside `WHERE`
+
+```sql
+SELECT
+
+FROM
+
+WHERE
+	IN
+(
+	SELECT
+
+	FROM
+
+	WHERE
+)
+```
+
+
+`HAVING` adds filter to query
+`CASE` allows if/then statements in query and returns records matching given conditions
+
+```sql
+SELECT
+
+CASE
+
+	WHEN
+	THEN
+	AND
+	THEN
+ELSE
+
+END AS
+
+FROM
+
+LEFT JOIN
+
+	ON
+
+GROUP BY
+```
 

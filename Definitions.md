@@ -1,5 +1,6 @@
 |Term|Definition|
 |--|--|
+|Aggregation|Combining data from multiple sources for analysis.|
 |Bias|A preference in favour of or against a person, people, or thing.|
 |Biased Sample|Sample not representative of the population.|
 |Data Bias|A type of error that systematically skews results in a certain direction.|

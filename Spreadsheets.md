@@ -33,12 +33,14 @@ Preceded by `=`
 - right()
 - concatenate()
 - trim()
+- value()
 
 # Functions
 
 - sort
 - filter
 - find and replace
+- remove duplicates
 
 # Pivot Table
 
@@ -48,7 +50,8 @@ A table returning a summary of another data set.
 
 Vertical lookup. Searches for a given key within a column and returns its associated value.
 
-
+- returns first match
+- 
 # CSV Files
 
 These are files whose data is delimited by Comma Separated Values.
@@ -71,4 +74,16 @@ You can lock cells from being edited. Useful for protecting formulas when sharin
 # Conditional Formatting
 
 Updates formatting of cells that meet a given condition.
+
+# Data Validation
+
+- drop down lists
+- protect formulas
+- add checkboxes
+
+# Date
+
+If calculating start and end times, use the following to avoid negative errors
+
+`=IF(end>start,end-start,1-start+end)`
 
