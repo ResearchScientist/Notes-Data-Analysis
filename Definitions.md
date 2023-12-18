@@ -10,5 +10,6 @@
 |Pivot Table|Summary, sort, reorganization, group, count, total, or average of another table.|
 |Relational Database|A database containing tables that can be connected to form relationships.|
 |Schema|Description of data organization.|
+|Storytelling|Communicating the meaning of a dataset using visuals and a narrative customized to each audience.|
 |Unbiased Sample|Sample representative of the population.|
 

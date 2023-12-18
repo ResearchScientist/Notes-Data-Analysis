@@ -102,6 +102,10 @@
 	- begin with overview
 	- continue stepwise with finer granularity
 - presentation delivery
+	- open with
+		- surprising stat
+		- inspiring quote
+		- thought provoking question
 	- begin with a high level overview
 	- then give finer details
 	- wait 5 seconds after showing a vis
@@ -124,6 +128,13 @@
 		- only discuss what is relevant to them
 		- be brief and efficiently informative
 		- use strategic pauses
+	- make eye contact
+	- ask for feedback
+	- encourage discussion
+	- 10 minutes prior to end
+		- recap events, decisions, and next steps
+	- thank everyone
+
 - Q/A
 	- understand stakeholder's expectations
 		- clear objective
@@ -154,6 +165,16 @@
 		- give more detail if they ask for it
 	- for a complicated response that requires additional research let the stakeholder know you will need to conduct additional research and will get back to them
 
+
 # Act
 
 - connect findings to OKRs and KPIs
+
+
+# ETL
+
+Combining data from different sources.
+
+- extract
+- transform
+- load
