@@ -1,3 +1,4 @@
+
 |Term|Definition|
 |--|--|
 |Aggregation|Combining data from multiple sources for analysis.|
