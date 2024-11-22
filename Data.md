@@ -1,3 +1,12 @@
+- [Sourced Data](#Sourced%20Data)
+- [Privacy](#Privacy)
+- [Management](#Management)
+- [Types](#Types)
+- [Formats](#Formats)
+- [Bias](#Bias)
+- [Ethics](#Ethics)
+- [Metadata](#Metadata)
+
 # Sourced Data
 
 - First Party Data : Data originally collected by a group using their own resources.
@@ -12,12 +21,52 @@ Always check for trustworthiness and accuracy by
 - ensure it is current and relevant
 - confirming that it can be cited and vetted
 
+# Privacy
+
+- obtain consent prior to obtaining data
+- protect data via obfuscation and security
+- be aware of regulations
+
+# Management
+
+Establish protocols for
+
+- data retrieval
+- data organization
+- data use
+- data integrity
+- accountability
+- storage and security
+- data sharing
+
 # Types
 
 - numerical
 - string
 - boolean
 
+**Quantitative** (numerical)
+
+- Discrete
+	- 
+- Continuous
+	- interval scale
+		- ranked or ordered
+		- distance between points is consistent
+		- e.g. temperature
+	- ratio scale
+		- ranked or ordered
+		- distance between points is consistent
+		- contains a zero value from which all measurements begin
+		- e.g. height
+
+**Qualitative** (categorical)
+
+- Nominal
+	- not ranked or not ordered
+- Ordinal
+	- ranked or ordered
+	- distance between points is not consistent
 # Formats
 
 ## Wide
@@ -97,4 +146,3 @@ Metadata repositories hold metadata and describe
 - table structure
 - data flow
 - user access to the data
-
