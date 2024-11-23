@@ -32,7 +32,23 @@ Sum of 2 top relative frequencies.
 Sum of 2 lowest relative frequencies.
 5% + 10% = 15%
 
+# Measures of Central Tendency
 
+### Mean
+
+Average of all values in a given variable.
+
+`sum of all values for a variable / n observations`
+### Median
+
+Middle value of a sorted data set (ordinal data).
+
+for odd dataset the median value is at `( n + 1 ) / 2`
+
+for even dataset the median values are at `n / 2` and `( n / 2 ) + 1`
+### Mode
+
+Value that appears the most often in a data set.
 
 Confidence Level
 

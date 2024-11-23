@@ -3,7 +3,4 @@ Data Analysis is used to inform decision making.
 
 - Data Driven : based entirely on data and stats, for building predictive models
 - Data Inspired : begins with data and stats then adds context and human insights
-# Metrics
 
-- ROI
-- Retention Rates

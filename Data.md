@@ -48,8 +48,14 @@ Establish protocols for
 **Quantitative** (numerical)
 
 - Discrete
-	- 
+	- values
+		- are finite
+		- there are no measures available between points
+		- usually represented as whole numbers
 - Continuous
+	- values
+		- can be infinite
+		- values usually grouped and represented within intervals
 	- interval scale
 		- ranked or ordered
 		- distance between points is consistent

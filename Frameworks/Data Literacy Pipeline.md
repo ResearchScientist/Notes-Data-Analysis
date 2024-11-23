@@ -1,6 +1,9 @@
 
 Data driven decision making.
 
+Based on Bloom's Taxonomy.
+Know
+
 # Evaluate
 
 - examine biases
