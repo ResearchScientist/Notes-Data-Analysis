@@ -64,6 +64,7 @@ Establish protocols for
 		- ranked or ordered
 		- distance between points is consistent
 		- contains a zero value from which all measurements begin
+		- a value of zero means the object measured does not exist
 		- e.g. height
 
 **Qualitative** (categorical)
