@@ -2,17 +2,10 @@
 Data driven decision making.
 
 Based on Bloom's Taxonomy.
-Know
 
 # Evaluate
 
 - examine biases
-
-# Manipulate
-
-- clean
-- organize
-- arrange
 
 # Know
 
@@ -20,14 +13,26 @@ Know
 - describe
 - determine
 
-# Analyse
+Examine metadata such as title, author, date, update frequency, privacy, accessibility.
+Why was it obtained.
+How was it obtained.
 
-- segment
-- examine correlations
+
 # Understand
 
 - interpret
 - summarize
+
+# Manipulate
+
+- clean
+- organize
+- arrange
+
+# Analyse
+
+- segment
+- examine correlations
 
 # Communicate
 
